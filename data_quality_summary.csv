@@ -1,0 +1,11 @@
+check,result,interpretation
+Source rows,52,"Records, not necessarily unique physical stations."
+Source columns,8,Original fields.
+Exact duplicate rows,0,Rows identical across all original fields.
+Rows with duplicated Station ID,0,Validate ID uniqueness in the source.
+Rows with any missing source value,0,Missing values across original fields.
+Upcoming records,6,Kept separate from historical opening dates.
+Dates needing review,0,Non-date values other than Upcoming.
+Rows missing coordinates,0,Requires geospatial review.
+Rows missing distance,0,Requires route metric review.
+Distinct station names across multiple lines,3,Could be interchange stations; verify with a trusted source.

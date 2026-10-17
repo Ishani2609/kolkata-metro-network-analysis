@@ -1,0 +1,53 @@
+Station ID,Station Name,Distance from Start (km),Line,Opening Date,Station Layout,Latitude,Longitude,Opening Date Raw,Opening Date Parsed,Date Status,Opening Year,Coordinate Missing,Distance Missing,Date Needs Review,Name Appears Across Lines,Opening Date ISO
+1,Kavi Subhash,0.0,Blue Line,07-10-2010,At grade,22.471,88.3773,07-10-2010,2010-10-07,Parsed,2010,False,False,False,True,2010-10-07
+2,Shahid Khudiram,2.6,Blue Line,07-10-2010,Elevated,22.4673,88.3685,07-10-2010,2010-10-07,Parsed,2010,False,False,False,False,2010-10-07
+3,Kavi Nazrul,4.8,Blue Line,22-08-2009,Elevated,22.4617,88.3619,22-08-2009,2009-08-22,Parsed,2009,False,False,False,False,2009-08-22
+4,Gitanjali,6.9,Blue Line,22-08-2009,Elevated,22.4515,88.3525,22-08-2009,2009-08-22,Parsed,2009,False,False,False,False,2009-08-22
+5,Masterda Surya Sen,8.7,Blue Line,22-08-2009,Elevated,22.4392,88.3412,22-08-2009,2009-08-22,Parsed,2009,False,False,False,False,2009-08-22
+6,Netaji,10.6,Blue Line,22-08-2009,Elevated,22.427,88.33,22-08-2009,2009-08-22,Parsed,2009,False,False,False,False,2009-08-22
+7,Mahanayak Uttam Kumar,12.5,Blue Line,29-04-1986,At grade,22.4148,88.319,29-04-1986,1986-04-29,Parsed,1986,False,False,False,False,1986-04-29
+8,Rabindra Sarobar,14.2,Blue Line,29-04-1986,Underground,22.4036,88.308,29-04-1986,1986-04-29,Parsed,1986,False,False,False,False,1986-04-29
+9,Kalighat,15.5,Blue Line,29-04-1986,Underground,22.3945,88.301,29-04-1986,1986-04-29,Parsed,1986,False,False,False,False,1986-04-29
+10,Jatin Das Park,16.7,Blue Line,29-04-1986,Underground,22.386,88.295,29-04-1986,1986-04-29,Parsed,1986,False,False,False,False,1986-04-29
+11,Netaji Bhavan,17.8,Blue Line,29-04-1986,Underground,22.377,88.288,29-04-1986,1986-04-29,Parsed,1986,False,False,False,False,1986-04-29
+12,Rabindra Sadan,18.9,Blue Line,29-04-1986,Underground,22.37,88.283,29-04-1986,1986-04-29,Parsed,1986,False,False,False,False,1986-04-29
+13,Maidan,20.0,Blue Line,29-04-1986,Underground,22.362,88.278,29-04-1986,1986-04-29,Parsed,1986,False,False,False,False,1986-04-29
+14,Park Street,21.1,Blue Line,29-04-1986,Underground,22.356,88.274,29-04-1986,1986-04-29,Parsed,1986,False,False,False,False,1986-04-29
+15,Esplanade,22.2,Blue Line,29-04-1986,Underground,22.35,88.27,29-04-1986,1986-04-29,Parsed,1986,False,False,False,True,1986-04-29
+16,Chandni Chowk,23.3,Blue Line,29-04-1986,Underground,22.344,88.266,29-04-1986,1986-04-29,Parsed,1986,False,False,False,False,1986-04-29
+17,Central,24.4,Blue Line,29-04-1986,Underground,22.338,88.262,29-04-1986,1986-04-29,Parsed,1986,False,False,False,False,1986-04-29
+18,Mahatma Gandhi Road,25.5,Blue Line,29-04-1986,Underground,22.332,88.258,29-04-1986,1986-04-29,Parsed,1986,False,False,False,False,1986-04-29
+19,Girish Park,26.6,Blue Line,29-04-1986,Underground,22.326,88.254,29-04-1986,1986-04-29,Parsed,1986,False,False,False,False,1986-04-29
+20,Shobhabazar Sutanuti,27.7,Blue Line,29-04-1986,Underground,22.32,88.25,29-04-1986,1986-04-29,Parsed,1986,False,False,False,False,1986-04-29
+21,Shyambazar,28.8,Blue Line,29-04-1986,Underground,22.314,88.246,29-04-1986,1986-04-29,Parsed,1986,False,False,False,False,1986-04-29
+22,Belgachia,30.0,Blue Line,12-11-1984,Underground,22.308,88.242,12-11-1984,1984-11-12,Parsed,1984,False,False,False,False,1984-11-12
+23,Dum Dum,31.1,Blue Line,12-11-1984,At grade,22.3,88.238,12-11-1984,1984-11-12,Parsed,1984,False,False,False,False,1984-11-12
+24,Noapara,33.0,Blue Line,10-07-2013,At grade,22.294,88.232,10-07-2013,2013-07-10,Parsed,2013,False,False,False,False,2013-07-10
+25,Dakshineswar,35.0,Blue Line,23-02-2021,Elevated,22.29,88.22,23-02-2021,2021-02-23,Parsed,2021,False,False,False,False,2021-02-23
+26,Baranagar,36.5,Blue Line,23-02-2021,Elevated,22.284,88.215,23-02-2021,2021-02-23,Parsed,2021,False,False,False,False,2021-02-23
+27,Howrah Maidan,0.0,Blue Line,06-03-2024,Underground,22.59,88.34,06-03-2024,2024-03-06,Parsed,2024,False,False,False,True,2024-03-06
+28,Howrah,1.0,Green Line,06-03-2024,Underground,22.586,88.337,06-03-2024,2024-03-06,Parsed,2024,False,False,False,False,2024-03-06
+29,Mahakaran,2.5,Green Line,06-03-2024,Underground,22.58,88.33,06-03-2024,2024-03-06,Parsed,2024,False,False,False,False,2024-03-06
+30,Esplanade,4.0,Green Line,06-03-2024,Underground,22.572,88.325,06-03-2024,2024-03-06,Parsed,2024,False,False,False,True,2024-03-06
+31,Sealdah,5.5,Green Line,07-11-2022,Underground,22.567207,88.371497,07-11-2022,2022-11-07,Parsed,2022,False,False,False,False,2022-11-07
+32,Sector V,0.0,Green Line,14-02-2020,Elevated,22.573,88.4273,14-02-2020,2020-02-14,Parsed,2020,False,False,False,False,2020-02-14
+33,Karunamoyee,1.2,Green Line,14-02-2020,Elevated,22.5792,88.4206,14-02-2020,2020-02-14,Parsed,2020,False,False,False,False,2020-02-14
+34,Central Park,2.5,Green Line,14-02-2020,Elevated,22.5821,88.413,14-02-2020,2020-02-14,Parsed,2020,False,False,False,False,2020-02-14
+35,City Centre,3.7,Green Line,14-02-2020,Elevated,22.585,88.4051,14-02-2020,2020-02-14,Parsed,2020,False,False,False,False,2020-02-14
+36,Bidhannagar,5.2,Green Line,14-02-2020,Elevated,22.5895,88.3928,14-02-2020,2020-02-14,Parsed,2020,False,False,False,False,2020-02-14
+37,Phoolbagan,6.8,Green Line,14-02-2020,Underground,22.5941,88.3798,14-02-2020,2020-02-14,Parsed,2020,False,False,False,False,2020-02-14
+38,Sealdah,8.0,Green Line,11-07-2022,Underground,22.5664,88.3639,11-07-2022,2022-07-11,Parsed,2022,False,False,False,False,2022-07-11
+39,Esplanade,10.0,Green Line,06-03-2024,Underground,22.572,88.325,06-03-2024,2024-03-06,Parsed,2024,False,False,False,True,2024-03-06
+40,Mahakaran,11.5,Green Line,06-03-2024,Underground,22.58,88.33,06-03-2024,2024-03-06,Parsed,2024,False,False,False,False,2024-03-06
+41,Howrah Maidan,13.0,Green Line,06-03-2024,Underground,22.59,88.34,06-03-2024,2024-03-06,Parsed,2024,False,False,False,True,2024-03-06
+42,Joka,0.0,Purple Line,30-12-2022,Elevated,22.4467,88.3156,30-12-2022,2022-12-30,Parsed,2022,False,False,False,False,2022-12-30
+43,Thakurpukur,2.0,Purple Line,30-12-2022,Elevated,22.4544,88.311,30-12-2022,2022-12-30,Parsed,2022,False,False,False,False,2022-12-30
+44,Sakherbazar,4.0,Purple Line,30-12-2022,Elevated,22.4623,88.3058,30-12-2022,2022-12-30,Parsed,2022,False,False,False,False,2022-12-30
+45,Behala Chowrasta,6.0,Purple Line,30-12-2022,Elevated,22.4692,88.301,30-12-2022,2022-12-30,Parsed,2022,False,False,False,False,2022-12-30
+46,Behala Bazar,8.0,Purple Line,30-12-2022,Elevated,22.4756,88.296,30-12-2022,2022-12-30,Parsed,2022,False,False,False,False,2022-12-30
+47,Majerhat,10.0,Purple Line,Upcoming,Elevated,22.5165,88.2958,Upcoming,,Upcoming,,False,False,False,False,
+48,Kavi Subhash,0.0,Orange Line,Upcoming,Elevated,22.471,88.3773,Upcoming,,Upcoming,,False,False,False,True,
+49,Sahid Khudiram,1.8,Orange Line,Upcoming,Elevated,22.4673,88.3685,Upcoming,,Upcoming,,False,False,False,False,
+50,New Garia,3.5,Orange Line,Upcoming,Elevated,22.4617,88.3619,Upcoming,,Upcoming,,False,False,False,False,
+51,Kalikapur,5.5,Orange Line,Upcoming,Elevated,22.4585,88.352,Upcoming,,Upcoming,,False,False,False,False,
+52,Hemanta Mukherjee,7.0,Orange Line,Upcoming,Elevated,22.456,88.3465,Upcoming,,Upcoming,,False,False,False,False,

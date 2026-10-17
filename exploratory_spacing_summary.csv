@@ -1,0 +1,5 @@
+Line,number_of_differences,median_difference_km,mean_difference_km,minimum_difference_km,maximum_difference_km
+Blue Line,26,1.1500000000000004,1.4038461538461537,0.0,2.6
+Green Line,13,1.2000000000000002,1.0,0.0,2.0
+Orange Line,4,1.75,1.75,1.5,2.0
+Purple Line,5,2.0,2.0,2.0,2.0
