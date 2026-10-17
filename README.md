@@ -1,51 +1,36 @@
-**Optimizing Kolkata's Urban Transit: A Data-Driven Study of the Metro System**
+# Kolkata Metro Network Analysis
 
-**Project Summary: Kolkata Metro Network Analysis**
+## Project Overview
 
-This project analyzes the Kolkata Metro Network using data analysis and visualization techniques. It primarily focuses on understanding the structure and efficiency of the metro system through Python, Pandas, and Plotly. Below is a brief overview of the key components of the analysis:
+An end-to-end data analytics project exploring station records, route characteristics, station layouts, geographical distribution, and recorded opening dates in a Kolkata Metro dataset.
 
-**Data Loading & Preprocessing:**
+The project uses Python for data cleaning and exploratory analysis, SQL for structured querying and validation, and Power BI for interactive reporting.
 
-The dataset (Kolkata Metro Network.csv) contains information about metro stations, metro lines, and distances.
-Pandas is used to read and clean the dataset.
+## Objectives
 
-**Metro Line Analysis:**
+- Assess data quality and document unresolved inconsistencies.
+- Compare station-record distributions across metro lines and layouts.
+- Explore validated station-opening dates and route-distance patterns.
+- Develop an interactive dashboard for exploring the dataset.
+- Translate verified analytical findings into clear, evidence-based recommendations.
 
-The project calculates the number of stations per line.
-It determines the total and average distance covered by each metro line.
-Visualization & Data Insights:
+## Tools
 
-Uses Plotly for interactive visualizations.
-Folium is used to create an interactive map of the metro network.
-Bar charts and line plots are generated to show metro line statistics.
+Python, Pandas, NumPy, SQL, Power BI, DAX, Plotly and Folium.
 
-**Key Findings:**
+## Methodology
 
-Distribution of stations across different metro lines.
-Average distance between metro stations on each line.
-This project effectively provides data-driven insights into the Kolkata Metro system, helping in understanding its structure, reach, and efficiency.
-Key Insights from the Analysis
-After performing the calculations and visualizations, here are the key insights:
+1. Audit the source data and document its limitations.
+2. Clean and validate fields while preserving original values.
+3. Perform exploratory analysis and calculate route metrics only where the data supports them.
+4. Use SQL to reproduce and verify key aggregations.
+5. Build a Power BI report with documented KPIs and filters.
+6. Present verified findings, recommendations and opportunities for further analysis.
 
-Metro Station Distribution
+## Data Limitations
 
-Some metro lines have more stations than others.
-This could indicate higher passenger demand in certain areas.
-Average Distance Between Stations
+The dataset contains station-level records and does not independently provide passenger volumes, ridership, service frequency, fares or travel times. Findings are limited to the coverage and accuracy of the supplied data.
 
-Some metro lines have closely spaced stations, while others have longer gaps between stations.
-This could indicate differences in how the metro lines are planned (urban vs suburban).
-Metro Network Coverage
+## Results
 
-The interactive map shows the geographic distribution of stations.
-Helps in understanding which areas are well-covered and which need more metro connectivity.
-**Conclusion**
-This project provides a data-driven overview of the Kolkata Metro Network. It helps in understanding:
-
-How metro stations are distributed across different lines.
-How far stations are from each other.
-How the metro network is structured geographically.
-
-This analysis can be useful for: ✔ Urban planners → To optimize metro expansion.
-✔ Commuters → To understand metro connectivity better.
-✔ Researchers → To analyze urban transport systems.
+Add validated metrics, charts and evidence-backed findings after completing the analysis. Do not infer passenger demand or real-world network coverage from station counts alone.
